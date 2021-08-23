@@ -1,0 +1,15 @@
+:root {
+    --primary: teal;
+    --secondary: white;
+    --tertiary: blue;
+}
+
+header {
+    padding: 30px 30px;
+    background: var(--primary);
+    border-bottom: 4px solid var(--tertiary);
+}
+
+.btn {
+
+}
